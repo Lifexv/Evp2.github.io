@@ -1,0 +1,157 @@
+a{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: black   ;
+}
+body{
+    background-image: url(img/pared.jpg);
+}
+#menu {
+    background-color: brown;
+    display: flex;
+    justify-content:space-around;
+    padding: 10px;
+    color: white;
+    
+}
+#menu p {
+    padding: 16px;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    
+}
+#login{
+    background-color: black;
+    border-radius:  50px;
+}
+#register{
+    background-color: white;
+    border-radius:  50px;
+    color: black;
+}
+#cuerpo{
+    display: flex;
+}
+#parte_dos{
+    padding: 70px 50px;
+    background-image: url(img/parte2.jpg);
+    background-size: 100% 100%;
+}
+h1,p{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+    
+}
+h2{
+    color: #FF5E00;
+    font-family: "Roboto", sans-serif;
+}
+#boton_A {
+    padding: 10px;
+    background-color: #FF5E00;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+#cuerpo2{
+    display: flex;
+}
+#parte_tres{
+    background-image: url(img/parte3.jpg);
+    background-size: 100% 100%;
+    padding: 70px 50px;
+}
+#indice{
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    background-color: brown;
+}
+#indice p {
+    background-color: brown;
+    padding: 15px;
+    border-radius: 50px;
+    
+}
+#redes{
+    display: flex;
+    justify-content: center;
+}
+#redes img{
+    padding: 10px;
+}
+#licencia {
+    background-color: darkslategray;
+    background-size: 100px 100px;
+    text-align: center;
+    
+}
+#subrayado{
+    text-decoration: underline;
+}
+#variedad{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 100px;
+    border: 5px solid #f77014;
+    background-color: #433d3d;
+    width: 20%;
+    height: 20%;
+    
+}
+#variedad p,h2{
+    margin: 30px 60px;
+}
+#Conjunto{
+    display: flex;
+    justify-content: center;
+    
+}
+#titulo{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#imagenes{
+    margin-top: 150px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+    height: 200px;
+}
+#imagenes img{
+   /* width: 20%;*/
+    border-radius: 500px;
+    border: 10px solid black;
+}
+
+#uno {
+    padding: 50px;
+    display: flex;
+}
+#dos {
+    padding: 50px;
+    display: flex;
+}
+#tres {
+    padding: 50px;
+    display: flex;
+}
+#cuatro {
+    padding: 50px;
+    display: flex;
+}
+#cinco {
+    padding: 50px;
+    display: flex;
+}
+#seis {
+    padding: 50px;
+    display: flex;
+}
